@@ -1,0 +1,16 @@
+﻿body {
+}
+.btn-outline-info {
+    color: #0dcaf0;
+
+}
+.btn-outline-info:hover{
+    color:white;
+}
+.btn-info {
+    color: white;
+}
+    .btn-info:hover {
+        background-color: white;
+        color: #0dcaf0;
+    }
